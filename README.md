@@ -1,3 +1,3 @@
 # project1
 
-this is some editi i'm doing
+this is some edit i'm doing
